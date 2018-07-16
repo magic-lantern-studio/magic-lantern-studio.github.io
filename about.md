@@ -7,7 +7,7 @@ permalink: /about/
 The Magic Lantern Studio organization on Github is used to manage the open source repositories for the Magic Lantern Studio SDK and toolchain. It is comprised of the following repos:
 
 SDK Components
-* [mle-core-dpp[https://github.com/magic-lantern-studio/mle-core-dwp)
+* [mle-core-dpp](https://github.com/magic-lantern-studio/mle-core-dwp)
 * [mle-core-dwp](https://github.com/magic-lantern-studio/mle-core-dpp)
 * [mle-core-env](https://github.com/magic-lantern-studio/mle-core-env)
 * [mle-core-math](https://github.com/magic-lantern-studio/mle-math)
