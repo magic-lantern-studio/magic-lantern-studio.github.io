@@ -10,7 +10,7 @@ SDK Components
 * [mle-core-dpp](https://github.com/magic-lantern-studio/mle-core-dwp)
 * [mle-core-dwp](https://github.com/magic-lantern-studio/mle-core-dpp)
 * [mle-core-env](https://github.com/magic-lantern-studio/mle-core-env)
-* [mle-core-math](https://github.com/magic-lantern-studio/mle-math)
+* [mle-core-math](https://github.com/magic-lantern-studio/mle-core-math)
 * [mle-core-mlert](https://github.com/magic-lantern-studio/mle-core-mlert)
 * [mle-core-util](https://github.com/magic-lantern-studio/mle-core-util)
 * [mle-parts](https://github.com/magic-lantern-studio/mle-parts)
