@@ -27,7 +27,7 @@ github_username:  WizzerWorks
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
