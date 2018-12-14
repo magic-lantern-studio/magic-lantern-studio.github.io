@@ -4,3 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+<div class="content">
+## Magic Lantern Components
+
+Placeholder for descirbing Magic Lantern components.
+</div>
