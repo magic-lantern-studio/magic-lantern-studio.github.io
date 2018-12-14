@@ -16,10 +16,8 @@
 title: Magic Lantern Studio
 email: msm@wizzerworks.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Magic Lantern Studio is a tool chain used to create applications for multiple platforms
-  using the Wizzer Works Magic Lantern platform and SDK. Magic Lantern is a interactive,
-  title development platform for authoring highly interactive titles, such as interactive
-  TV applications, games, educational programs, and point-of-information/sales kiosks.
+  The Magic Lantern Studio projects are comprised of a portable runtime engine,
+SDK, authoring tools and example applications.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: WizzerWorks

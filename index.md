@@ -5,7 +5,8 @@
 layout: home
 ---
 <div class="content">
-## Magic Lantern Components
-
-Placeholder for descirbing Magic Lantern components.
+<h1>Magic Lantern Components</h1>
+<p>
+Magic Lantern Studio is a tool chain used to create applications for multiple platforms using the Wizzer Works Magic Lantern platform and SDK. Magic Lantern is a interactive, title development platform for authoring highly interactive titles, such as interactive TV applications, games, educational programs, and point-of-information/sales kiosks.
+</p>
 </div>
