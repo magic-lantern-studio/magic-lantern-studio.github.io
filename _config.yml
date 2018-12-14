@@ -16,8 +16,7 @@
 title: Magic Lantern Studio
 email: msm@wizzerworks.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Magic Lantern Studio projects are comprised of a portable runtime engine,
-SDK, authoring tools and example applications.
+  The Magic Lantern Studio projects are comprised of a portable runtime engine, SDK, authoring tools and example applications.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: WizzerWorks
