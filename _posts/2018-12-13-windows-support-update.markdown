@@ -10,4 +10,4 @@ Support for the Windows 32-bit platform has been updated to reflect changes requ
 
 # Windows 64-bit Platform Support
 
-Updating the Windows 64-bit platform is also underway. Should be completed before the end-of-year.
+The Windows 64-bit platform has also been updated.
